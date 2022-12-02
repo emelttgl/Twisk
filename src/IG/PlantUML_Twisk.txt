@@ -1,0 +1,248 @@
+https://www.plantuml.com/plantuml/uml/fPbTJzmu5yVl-HHMdvkCGY_Qowgg2fG-HO8M5NO5Mgr6dkGmk4tir7POs8hllhR36PmwdfDHkI2n_ViVsoV7B_QyDvPhsxVDNiUhxtmDx8NzHvZlB_P-xZ7tjyc5IlKMUcrUXFnG6lwgXXl3Zf-A3xwv9nDjrq0Bqhg2E_Vun6NTW4PD-1ihth3_iJCbQpZvFslzSojRZdEAZN91oEwKgDbjQ4rnK5cXP6WV0_z_iPVhbAvcTmbviaCHMSPfiZEwIhfofde3GqzQVCrtvvnhteBLCATJgIhj6icNQMxSJLfETvOqyfBzD9PRKJqEri3OF-I9jB06NLnOBUIQMRYtImscR_BU-mfIjItedPo7ejHt55uccPJdaFkDWB-01YexD-nJLTfBcdTFHtDT4ImHJVjeQ47ReSEAyD2nvTtCKPJgA2zb5FxDAy0_AGNjhOsv1MthzppMTzqkWmOLj9TYjXpdK6C5PUH0yQB7lL-MnFiAEazcriHBlv0U8yJWteAi3TlaZ5eqXaEJnbauHxLWZAj-iLtzaWtueP2rLrdHmYdSs0Cpv1S7KhGym1pVfdlP3XwSxgBtr9smhXoxXm4LDo_6_ESKqZ8BRMSe22gkxP90ooY9JfBAXVRJkwZtWx5cUDn64SfNncfUMUnDc3d6DOKitvvpvTGVu4X9grNZwlhhRzRLLORsDHdnBsIALygPu9APCBm8gDDW3DIJL3cy5KdhVDjUxRF9_DUBZArVQBO6breLE-0VXSpXs1-F3TDAbWo3qP1OPF1yy15faU9-OaWyedKvx1HSBtkzWYAPtq9-F022iTWy8b4S-TYn9WULcDZrkpxbimu9rhrUv6i9YFVUcMW4zCjNnGxmwo8xa70EY6Vx4mkQhvhnW43E--Lvv5A8g9r5SIEuj5cqLhshZ7NANCrWhhDCc3YuNaEljpAtlBTv9ZDx-3oJIeWv0Z5gbiXm8Aq6e6jLseeSLkBxhFasOoGQbC4HHHP4oskmdrLRK0O92h_x6ivTTComXXXbpeFNj3qAUnfcfqFKqU0dtjiic9buwKQIO3hvqbPfCZPx72ALjag3iGDyNDD68v0EofDiXyOh2fg-z1kQtIJ7ppkXT0aw5Mi97xGITkiw575OKvmpjTZKi9fQQsw4J1g1Essi_gB_1lRBoe2-u-7YY5mDl0LgbKI6tf6b_87M_E5K6FiskEQTFsoQ-VGm3o-tYZvnStl6kxT3RE3foed1lyof31LONH1cTK9Q_p5yex8CRaMNNJq7oZgynFTYaIL2k79_tHPTgZnqa5Ey72jos7Ym3Qj_5SuiUSaGOrPf_7xYAUsI1T6UZzwbEIoUUwFZyONp7kcPkbxgTXcfYkJyJTJbMhzpJRx7U2j2oivjyRIYtU_ZslP0-4k30KiroVYpjcX1BqDeaxpszrWHZbiDGbR3m0ib9MYgac4tH55XCqHIrIsNQzVUpj-p5E6GEso18BqLIUVKaUrnCRMffUXhWYRsrbbHklSa56MQEn5iqKvoGPXCzbzNnSwIQqeIXsIZAcw162693MB7a0Y8FHOXItPRIVIbQ_F8QbeyNgEYedTChGmf7YyCKM4HlJErc6j8AX-Z8qkccBw-SZMA9dD1zv6ljFZHmqacw2VAWoVmXuH9uEJpnUN1vwFZ6PRAxPPyd4W7o0gA1MaELt6fmf92yicgYYL1diRC9HTDuoAjxPHnr3XaqjBOJsafEecoKUPjvDsJekb9deRnI4_2E0LeNelUK7Z-V4SgyA17Ak89xgjlLMvmtFMG30qXBUWRNW6Bn-QeohZW3SwCV2rq6ZL_zf3U4VlSgMlYCUpxCSh9_6oHkuJoMbr5jPvp6VzO4tSZQOON4ZyzZB1prJmqmjdlXfSiMc8YwiuY3-DKZlPnvQbXTRNFdXFNcF37WQiuSJtrJP9BoqsblpPbT7UvILJXPGjRnkdumyKcmal-0sAKnCqyLFSpFo5AgO-8OER7jGnuobVGi3jXUcYsSKT2LmqyRJENUAcMuqjCPgDzcnPZnMMJ6vIn59k9boxOqc96VIYv28eZrQZfQI2-Qg3ZBiRHvQESngSeKPbanbvD3RhdLDFFGFQR5ll48TSpez3JIGYwPvxpBpUYkXMWjqDG2t_8sGgb4PyY7Vuil1KxiT2o7xsm5ZGDubcFHl6OHvFZantDuqqtoOLOpt4bliVJTHeYMBZxMeFID4hoO1abjxVhIzZ-RffrAHgOtpHKaosBkCFUMYM7hNuMmtdHNTXnKODPLY6Put6-tU2DJsNfyZcrtJdfwGdz59etrqk9cQp324cQs_cSEU8oBHZFTbF6SLFukFSUPDstpNy0
+
+@startuml
+package "twisk"
+{
+    package "ecouteurs"
+    {
+        class EcouteurAjout implements EventHandler
+            EcouteurAjout : # MondeIG monde
+            EcouteurAjout : + EcouteurAjout(MondeIG m)
+            EcouteurAjout : + void handle(ActionEvent event)
+
+        class EcouteurArc implements EventHandler
+            EcouteurArc : # MondeIG monde
+            EcouteurArc : + EcouteurArc(MondeIG m)
+            EcouteurArc : + void handle(MouseEvent mouseEvent)
+
+        class EcouteurParametre implements EventHandler
+            EcouteurParametre : # MondeIG monde
+            EcouteurParametre : + EcouteurParametre(MondeIG m)
+            EcouteurParametre : + void handle(MouseEvent mouseEvent)
+            EcouteurParametre : - {static} void estUnInteger(String text_result)
+
+        class EcouteurRenommer implements EventHandler
+            EcouteurRenommer : # MondeIG monde
+            EcouteurRenommer : + EcouteurRenommer(MondeIG m)
+            EcouteurRenommer : + void handle(ActionEvent event)
+
+        class EcouteurSelectArc implements EventHandler
+            EcouteurSelectArc : # MondeIG monde
+            EcouteurSelectArc : # ArcIG arc
+            EcouteurSelectArc : + EcouteurParametre(MondeIG m, ArcIG a)
+            EcouteurSelectArc : + void handle(MouseEvent mouseEvent)
+
+        class EcouteurSelectEtape implements EventHandler
+            EcouteurSelectEtape : # MondeIG monde
+            EcouteurSelectEtape : # EtapeIG etape
+            EcouteurSelectEtape : + EcouteurParametre(MondeIG m, EtapeIG e)
+            EcouteurSelectEtape : + void handle(MouseEvent mouseEvent)
+
+        class EcouteurSuppr implements EventHandler
+            EcouteurSuppr : # MondeIG monde
+            EcouteurSuppr : + EcouteurSuppr(MondeIG m)
+            EcouteurSuppr : + void handle(ActionEvent event)
+    }
+
+    package "exceptions"
+    {
+        class TwiskException extends Exception
+            TwiskException : + TwiskException(String message)
+            TwiskException : - StringBinding timeLeftAsString(Animation animation)
+    }
+
+    package "mondeIG"
+    {
+        class ActiviteIG extends EtapeIG
+            ActiviteIG : # int temps
+            ActiviteIG : # int ecart_temps
+            ActiviteIG : + ActiviteIG(String nom, String id, int l, int h)
+
+        abstract class ArcIG 
+            ArcIG : # PointDeControleIG[] pdc
+            ArcIG : # int size
+            ArcIG : # boolean select
+            ArcIG : # boolean pressed
+            ArcIG : + ArcIG(PointDeControleIG pdc1, PointDeControleIG pdc2)
+            ArcIG : + PointDeControle getDeb()
+            ArcIG : + PointDeControle getFin()
+            ArcIG : + boolean getSelect()
+            ArcIG : + void setSelect()
+            ArcIG : + boolean getPressed()
+            ArcIG : + void setPressed()
+            ArcIG : + {abstract} booleann estUneCourbe()
+
+        class CourbeIG extends ArcIG
+            CourbeIG : # Point[] pts
+            CourbeIG : + CourbeIG(PointDeControleIG pdc1, PointDeControleIG pdc2, Point p1, Point p2)
+            CourbeIG : + Point getMilieu_1()
+            CourbeIG : + Point getMilieu_2()
+
+        abstract class EtapeIG implements Iterable
+            EtapeIG : # String nom
+            EtapeIG : # String identifiant
+            EtapeIG : # double posX
+            EtapeIG : # double posY
+            EtapeIG : # int largeur
+            EtapeIG : # int hauteur
+            EtapeIG : # PointDeControleIG[] points
+            EtapeIG : # boolean select
+            EtapeIG : # boolean pressed
+            EtapeIG : # boolean entree
+            EtapeIG : # boolean sortie
+            EtapeIG : + EtapeIG(String nom, String id, int l, int h)
+            EtapeIG : + void setPoints()
+            EtapeIG : + String getNom()
+            EtapeIG : + void setNom()
+            EtapeIG : + double gePosX()
+            EtapeIG : + void setPosX()
+            EtapeIG : + double getPosY()
+            EtapeIG : + void setPosY()
+            EtapeIG : + int getLargeur()
+            EtapeIG : + int getHauteur()
+            EtapeIG : + boolean getSelect()
+            EtapeIG : + void setSelect()
+            EtapeIG : + boolean getPressed()
+            EtapeIG : + void setPressed()
+            EtapeIG : + boolean getEntree()
+            EtapeIG : + void setEntree()
+            EtapeIG : + boolean getSortie()
+            EtapeIG : + void setSortie()
+            EtapeIG : + String getId()
+            EtapeIG : + {abstract} void setTemps()
+            EtapeIG : + {abstract} void setEcart_temps()
+
+        class LigneDroiteIG extends ArcIG
+            LigneDroiteIG : + LigneDroiteIG(PointDeControleIG deb, PointDeControleIG fin)
+
+        class MondeIG extends SujetObservateurs implements Iterable
+            MondeIG : # Point[] pts
+            MondeIG : # PointDeControleIG[] pdc
+            MondeIG : # ArrayList<ArcIG> arcs
+            MondeIG : # ArrayList<ArcIG> select_arcs
+            MondeIG : # HashMap<String, EtapeIG> etapes
+            MondeIG : # ArrayList<EtapeIG> select_etape
+            MondeIG : # int fin_arc
+            MondeIG : # int size_pdc
+            MondeIG : # int size_pts
+            MondeIG : + MondeIG()
+            MondeIG : + void ajouter(String type)
+            MondeIG : - void ajouter()
+            MondeIG : + String getIdentification()
+            MondeIG : + Iterator<ArcIG> iteratorArc()
+            MondeIG : - void Fin_arc()
+            MondeIG : + int getSelectEtapeSize()
+            MondeIG : + void add_rm_SelectEtape(EtapeIG e)
+            MondeIG : + int getSelectArcSize()
+            MondeIG : + void add_rm_SelectArc(ArcIG a)
+            MondeIG : + void addPt(double x, double y)
+            MondeIG : - void reset()
+            MondeIG : + void supprimer_select()
+            MondeIG : + void renommer_select(String n)
+            MondeIG : + void deselectionner()
+            MondeIG : + void entree()
+            MondeIG : + void sortie()
+            MondeIG : + void changer_param(int t, int et)
+
+        class PointDeControleIG 
+            PointDeControleIG : # double posX
+            PointDeControleIG : # double posY
+            PointDeControleIG : # String identifiant
+            PointDeControleIG : # boolean pressed
+            PointDeControleIG : + PointDeControleIG(double x, double y, String id)
+            PointDeControleIG : + double getPosX()
+            PointDeControleIG : + double getPosY()
+            PointDeControleIG : + void relocate(double x, double y)
+            PointDeControleIG : + String getId()
+            PointDeControleIG : + boolean getPressed()
+            PointDeControleIG : + void setPressed()
+
+        class SujetObservateurs 
+            SujetObservateurs : # ArrayList<Observateur> obs
+            SujetObservateurs : + void ajouterObservateur(Observateur o)
+            SujetObservateurs : + void notifierObservateurs()
+    }
+
+    package "outils"
+    {
+        class FabriqueIdentifiant
+            FabriqueIdentifiant : # {static} FabriqueIdentifiant INSTANCE
+            FabriqueIdentifiant : + {static} FabriqueIdentifiant getInstance()
+            FabriqueIdentifiant : # int noEtape
+            FabriqueIdentifiant : + String getIdentifiantEtape()
+
+        class TailleComposants 
+            TailleComposants : # {static} TailleComposants INSTANCE
+            TailleComposants : + {static} TailleComposants getInstance()
+            TailleComposants : # int largeur
+            TailleComposants : # int hauteur
+            TailleComposants : # double radius
+            TailleComposants : + int getLargeur()
+            TailleComposants : + int getHauteur()
+            TailleComposants : + double getRadius()
+    }
+
+    package "vues"
+    {
+        interface Observateur 
+            Observateur : void reagir()
+
+        class VueActiviteIG extends VueEtapeIG
+            VueActiviteIG : + VueActiviteIG(MondeIG m, EtapeIG e)
+
+        abstract class VueArcIG extends Pane implements Observateur
+            VueArcIG : # MondeIG monde
+            VueArcIG : # Polyline polyline
+            VueArcIG : + VueArcIG(MondeIG m)
+            VueArcIG : + void setPolyline(double debX, double debY, double finX, double finY)
+
+        class VueCourbeIG extends VueArcIG 
+            VueCourbeIG : # CourbeIG courbe
+            VueCourbeIG : + VueCourbeIG(MondeIG m, CourbeIG courbeIG)
+
+        abstract class VueEtapeIG extends VBox implements Observateur
+            VueEtapeIG : # MondeIG monde
+            VueEtapeIG : # EtapeIG etape
+            VueEtapeIG : # Label visuel
+            VueEtapeIG : # Circle entree_sortie
+            VueEtapeIG : + VueEtapeIG(MondeIG m, EtapeIG e)
+            VueEtapeIG : + void setVue(double x, double y)
+            VueEtapeIG : + Circle getEntree_sortie()
+            VueEtapeIG : + void setEntreeSortieColor()
+
+        class VueLigneDroiteIG extends VueArcIG 
+            VueLigneDroiteIG : # LigneDroiteIG ligne
+            VueLigneDroiteIG : + VueLigneDroiteIG(MondeIG m, LigneDroiteIG ligneIG)
+
+        class VueMenu extends MenuBar implements Observateur
+            VueMenu : # MondeIG mondeIG
+            VueMenu : # Menu fichier
+            VueMenu : # Menu edition
+            VueMenu : # Menu monde
+            VueMenu : # Menu parametre
+            VueMenu : # MenuItem quitter
+            VueMenu : # MenuItem supprimer
+            VueMenu : # MenuItem renommer
+            VueMenu : # MenuItem deselectionner
+            VueMenu : # MenuItem entree
+            VueMenu : # MenuItem sortie
+            VueMenu : + VueMenu(MondeIG m)
+
+        class VueMondeIG extends Pane implements Observateur
+            VueMondeIG : # MondeIG monde
+            VueMondeIG : + VueMondeIG(MondeIG m)
+
+        class VueOutils extends TilePane implements Observateur
+            VueOutils : # MondeIG monde
+            VueOutils : # Button ajout
+            VueOutils : # Circle[] aides_circle
+            VueOutils : # Label[] aides_label
+            VueOutils : + VueOutils(MondeIG m)
+
+        class VuePointDeControleIG extends Circle implements Observateur
+            VuePointDeControleIG : # MondeIG monde
+            VuePointDeControleIG : # PointDeControleIG point
+            VuePointDeControleIG : + VuePointDeControleIG(MondeIG m, PointDeControleIG p)
+    }
+}
+@enduml
